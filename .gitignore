@@ -1,0 +1,4 @@
+*.pt
+.venv
+.idea
+src/preprocessed_xlsum_ukrainian
